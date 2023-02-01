@@ -12,7 +12,7 @@ For this hotel menu project, I implemented Html, JavaScript And Css that include
 - Linter
 
 ## Live Demo
-[Live Demo Link](https://benardop.github.io/awesom-bookstore/)
+[Live Demo Link](https://benardop.github.io/hotel-menu/)
 
 
 Please get your browser update.
